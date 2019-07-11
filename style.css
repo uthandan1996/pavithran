@@ -1,0 +1,80 @@
+body{	           
+	margin:0;
+	padding:0;
+	background: url(C:\Users\Lenovo\Videos\ppp.jpg);
+	background-size:cover;
+	background-position:center;
+}
+   .loginbox{
+	width:320px;
+	height:420px;
+	background:plue;
+	color:write;
+	top:50%;
+	left:50%;
+	position:absolute;
+	box-sizing:border-box;
+
+}
+
+    .h1{
+	margin:0;
+	padding:0;
+	text-align:center;
+	font-size:22px;
+}
+    .loginbox	p{
+	margin:0;
+	padding:0;
+	font-weight:bold;
+}
+
+    .loginbox input{
+
+	width:100%
+	margin-bottom:20px;
+}
+
+    .login input[type="text"], input[type="password"]
+{
+	border:none;
+	border-bottom:1px solid white;
+	outline:none;
+	height:40px;
+	color:white;
+	font-size:16px;
+
+}
+
+    .loginbox  input[type="submit"]
+{
+	border:none;
+	outline:none;
+	height:40px;
+	backgrount:green;
+	color:write;
+	font-size:18px;
+ 	border-redius:20px;
+}
+     .loginbox   a{
+	text-decoration:none;
+	font-size:12px;
+	line-height:20px;
+	color:darkgrey;
+}
+
+ 
+     .loginbox a:hover
+{
+	color:write;
+}
+
+
+
+
+
+
+
+
+
+
